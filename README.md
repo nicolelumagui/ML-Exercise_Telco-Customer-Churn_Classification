@@ -1751,7 +1751,7 @@ for col in df_clean.columns:
 ```
 
 
-![png](Images\output_29_0.png)
+![png](Images/output_29_0.png)
 
 
 
@@ -1759,23 +1759,11 @@ for col in df_clean.columns:
 
 
 
-![png](Images\output_29_2.png)
+![png](Images/output_29_2.png)
 
 
 
-![png](Images\output_29_3.png)
-
-
-
-    <Figure size 1440x504 with 0 Axes>
-
-
-
-![png](Images\output_29_5.png)
-
-
-
-![png](Images\output_29_6.png)
+![png](Images/output_29_3.png)
 
 
 
@@ -1783,27 +1771,11 @@ for col in df_clean.columns:
 
 
 
-![png](Images\output_29_8.png)
+![png](Images/output_29_5.png)
 
 
 
-![png](Images\output_29_9.png)
-
-
-
-    <Figure size 1440x504 with 0 Axes>
-
-
-
-![png](Images\output_29_11.png)
-
-
-
-![png](Images\output_29_12.png)
-
-
-
-![png](Images\output_29_13.png)
+![png](Images/output_29_6.png)
 
 
 
@@ -1811,23 +1783,11 @@ for col in df_clean.columns:
 
 
 
-![png](Images\output_29_15.png)
+![png](Images/output_29_8.png)
 
 
 
-![png](Images\output_29_16.png)
-
-
-
-    <Figure size 1440x504 with 0 Axes>
-
-
-
-![png](Images\output_29_18.png)
-
-
-
-![png](Images\output_29_19.png)
+![png](Images/output_29_9.png)
 
 
 
@@ -1835,23 +1795,15 @@ for col in df_clean.columns:
 
 
 
-![png](Images\output_29_21.png)
+![png](Images/output_29_11.png)
 
 
 
-![png](Images\output_29_22.png)
+![png](Images/output_29_12.png)
 
 
 
-    <Figure size 1440x504 with 0 Axes>
-
-
-
-![png](Images\output_29_24.png)
-
-
-
-![png](Images\output_29_25.png)
+![png](Images/output_29_13.png)
 
 
 
@@ -1859,23 +1811,11 @@ for col in df_clean.columns:
 
 
 
-![png](Images\output_29_27.png)
+![png](Images/output_29_15.png)
 
 
 
-![png](Images\output_29_28.png)
-
-
-
-    <Figure size 1440x504 with 0 Axes>
-
-
-
-![png](Images\output_29_30.png)
-
-
-
-![png](Images\output_29_31.png)
+![png](Images/output_29_16.png)
 
 
 
@@ -1883,23 +1823,11 @@ for col in df_clean.columns:
 
 
 
-![png](Images\output_29_33.png)
+![png](Images/output_29_18.png)
 
 
 
-![png](Images\output_29_34.png)
-
-
-
-    <Figure size 1440x504 with 0 Axes>
-
-
-
-![png](Images\output_29_36.png)
-
-
-
-![png](Images\output_29_37.png)
+![png](Images/output_29_19.png)
 
 
 
@@ -1907,23 +1835,11 @@ for col in df_clean.columns:
 
 
 
-![png](Images\output_29_39.png)
+![png](Images/output_29_21.png)
 
 
 
-![png](Images\output_29_40.png)
-
-
-
-    <Figure size 1440x504 with 0 Axes>
-
-
-
-![png](Images\output_29_42.png)
-
-
-
-![png](Images\output_29_43.png)
+![png](Images/output_29_22.png)
 
 
 
@@ -1931,11 +1847,11 @@ for col in df_clean.columns:
 
 
 
-![png](Images\output_29_45.png)
+![png](Images/output_29_24.png)
 
 
 
-![png](Images\output_29_46.png)
+![png](Images/output_29_25.png)
 
 
 
@@ -1943,15 +1859,99 @@ for col in df_clean.columns:
 
 
 
-![png](Images\output_29_48.png)
+![png](Images/output_29_27.png)
 
 
 
-![png](Images\output_29_49.png)
+![png](Images/output_29_28.png)
 
 
 
-![png](Images\output_29_50.png)
+    <Figure size 1440x504 with 0 Axes>
+
+
+
+![png](Images/output_29_30.png)
+
+
+
+![png](Images/output_29_31.png)
+
+
+
+    <Figure size 1440x504 with 0 Axes>
+
+
+
+![png](Images/output_29_33.png)
+
+
+
+![png](Images/output_29_34.png)
+
+
+
+    <Figure size 1440x504 with 0 Axes>
+
+
+
+![png](Images/output_29_36.png)
+
+
+
+![png](Images/output_29_37.png)
+
+
+
+    <Figure size 1440x504 with 0 Axes>
+
+
+
+![png](Images/output_29_39.png)
+
+
+
+![png](Images/output_29_40.png)
+
+
+
+    <Figure size 1440x504 with 0 Axes>
+
+
+
+![png](Images/output_29_42.png)
+
+
+
+![png](Images/output_29_43.png)
+
+
+
+    <Figure size 1440x504 with 0 Axes>
+
+
+
+![png](Images/output_29_45.png)
+
+
+
+![png](Images/output_29_46.png)
+
+
+
+    <Figure size 1440x504 with 0 Axes>
+
+
+
+![png](Images/output_29_48.png)
+
+
+
+![png](Images/output_29_49.png)
+
+
+
+![png](Images/output_29_50.png)
 
 
 ## Prepare the Data for Modelling
@@ -2661,7 +2661,7 @@ confmatrix(rf_pred, "Random Forest - Telco Customer Churn\nConfusion Matrix")
 ```
 
 
-![png](Images\output_58_0.png)
+![png](Images/output_58_0.png)
 
 
 ### Logistic Regression
@@ -2796,7 +2796,7 @@ confmatrix(logreg_pred, "LogReg - Telco Customer Churn\nConfusion Matrix")
 ```
 
 
-![png](Images\output_68_0.png)
+![png](Images/output_68_0.png)
 
 
 ### XGBoost
@@ -2941,7 +2941,7 @@ confmatrix(xgb_pred, "XGBoost - Telco Customer Churn\nConfusion Matrix")
 ```
 
 
-![png](Images\output_78_0.png)
+![png](Images/output_78_0.png)
 
 
 ## Summary of the Results
