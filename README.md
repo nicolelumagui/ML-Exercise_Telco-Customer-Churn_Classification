@@ -3082,7 +3082,9 @@ df_best
 
 
 
-In this exercise, we tried categorical visualizations from `Seaborn` which are: 
+In this exercise, we used `LabelEncoder` to give categories numerical labels
+
+We tried categorical visualizations from `Seaborn` which are: 
 * `catplot` - like a bar plot but for categories
 * `kdeplot` - like a smoothened histogram
 
